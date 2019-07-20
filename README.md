@@ -1,3 +1,5 @@
+哈哈  欢迎访问 威少的第一 react 项目
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
