@@ -30,7 +30,7 @@ export default class Header extends Component{
 }
 
 //export default Header; // 可以放到 class前面
-	//父组件传入得参数检查，若类型不多，会报错
+	//父组件传入de参数检查，若类型不多，会报错
 	Header.proTypes={
 		name : ProTypes.string,
 		age : ProTypes.number

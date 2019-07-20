@@ -4,7 +4,7 @@ import './App.css';
 import Header from './components/Header';
 
 //function App() {
-//	const user={
+//	const user={  
 //	name:"xuebing",
 //	hobbies:["sports","readings"]
 //	}
